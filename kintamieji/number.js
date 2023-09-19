@@ -14,3 +14,5 @@ let pinigine = 0;
 var minusas = -7.56;
 
 console.log(amzius);
+
+// Runint koda i terminal node ./kintamieji/number.js
