@@ -17,17 +17,30 @@ console.log(pazymiai[pazymiai.length-1]);
 // Suskaiciuoti pazimiu vidurki ir isvesti kaip sakini:
 // "Studento pazimiu vidurkis yra 7."
 
-let sum = 0;
-const pazimiuSkaicius = pazymiai.length;
 
-pazymiai.forEach(pazimys => {
-    sum+=pazimys;
-});
+console.log(`Studento pazymiu vidurkis yra: ${pazymiai.reduce((a,b)=>a+b)/pazymiai.length}`)
 
-console.log(`Studento pazymiu vidurkis yra: ${sum/pazimiuSkaicius}`);
 
 const aplankytosVietos = ['Vilnius', 'Kaunas', 'Klaipeda'];
 
 let aplankytos;
 
 console.log(`Mano aplankytos vietos vienoje eiluteje: ${aplankytosVietos.join(', ')}`);
+
+console.clear();
+const colors = ['geltona', 'zalia', 'raudona'];
+
+console.log(colors)
+console.log(colors[1])
+
+colors[1]=777;
+console.log(colors);
+
+colors[1]='žalia';
+console.log(colors);
+
+
+
+
+
+
