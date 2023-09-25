@@ -22,13 +22,6 @@ const jonasName = jonas.name;
 const jonasAge = jonas.age;
 const jonasMarried = jonas.isMarried;
 
-// const maryteName = maryte.name;
+const maryteName = maryte.name;
 const maryteAge = maryte.age;
 const maryteMarried = maryte.isMarried;
-
-
-
-
-
-
-
