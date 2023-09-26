@@ -9,6 +9,7 @@
     "boolean": "nodemon ./kintamieji/boolean.js",
     "array": "nodemon ./kintamieji/array.js",
     "object": "nodemon ./kintamieji/object.js",
+    "function": "nodemon ./funkcija/function.js",
     "test": "echo \"Error: no test specified\" && exit 1"
     
   },
