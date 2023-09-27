@@ -10,6 +10,7 @@
     "array": "nodemon ./kintamieji/array.js",
     "object": "nodemon ./kintamieji/object.js",
     "function": "nodemon ./funkcijos/function.js",
+    "if": "nodemon ./palyginimas/if.js",
     "test": "echo \"Error: no test specified\" && exit 1"
     
   },
