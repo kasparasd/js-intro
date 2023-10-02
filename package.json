@@ -12,6 +12,8 @@
     "function": "nodemon ./funkcijos/function.js",
     "if": "nodemon ./palyginimas/if.js",
     "for": "nodemon ./ciklas/for.js",
+    "method:number": "nodemon ./metodai/number.js",
+    "method:string": "nodemon ./metodai/string.js",
     "test": "echo \"Error: no test specified\" && exit 1"
     
   },
