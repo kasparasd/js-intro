@@ -70,3 +70,20 @@ console.log('a'.repeat(6));
 const r1 = 'Labas';
 const r2 = r1.replace('a', 'x');
 console.log(r2);
+
+console.clear();
+const kopustas = 'kopustas';
+console.log(kopustas.slice(0));
+
+console.clear();
+
+const pvz = '123 456 789   _,./_';
+console.log(pvz.split(''));
+
+console.clear();
+
+console.log('Labas'.startsWith('x')); // false
+console.log('Labas'.startsWith('l')); // false
+console.log('Labas'.startsWith('L')); // true
+console.log('Labas'.startsWith('Lab')); // true
+console.log('Labas'.endsWith('as')); // true
