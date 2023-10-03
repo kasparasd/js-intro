@@ -15,6 +15,7 @@
     "method:number": "nodemon ./metodai/number.js",
     "method:string": "nodemon ./metodai/string.js",
     "uzdaviniai:tarpai": "nodemon ./uzdaviniai/tarpai.js",
+    "uzdaviniai:vardas": "nodemon ./uzdaviniai/vardas.js",
     "test": "echo \"Error: no test specified\" && exit 1"
     
   },
