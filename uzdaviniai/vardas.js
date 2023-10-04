@@ -20,3 +20,12 @@ console.log(vardas('Jonas'));
 // }
 
 // suma(1,2,3)
+
+function isName(name){
+    console.log(name === undefined);
+    return 'ok';
+}
+
+console.log(isName())
+
+console.log(isFinite(''));
