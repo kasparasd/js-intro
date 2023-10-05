@@ -19,6 +19,7 @@
     "uzdaviniai:vardas": "nodemon ./uzdaviniai/vardas.js",
     "uzdaviniai:array": "nodemon ./uzdaviniai/array.js",
     "uzdaviniai:ternary": "nodemon ./uzdaviniai/ternary.js",
+    "uzdaviniai:pazymiai": "nodemon ./uzdaviniai/pazymiai.js",
     "test": "echo \"Error: no test specified\" && exit 1"
     
   },
