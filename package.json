@@ -10,6 +10,7 @@
     "array": "nodemon ./kintamieji/array.js",
     "object": "nodemon ./kintamieji/object.js",
     "function": "nodemon ./funkcijos/function.js",
+    "arrow": "nodemon ./funkcijos/arrow.js",
     "if": "nodemon ./palyginimas/if.js",
     "for": "nodemon ./ciklas/for.js",
     "method:number": "nodemon ./metodai/number.js",
@@ -17,6 +18,7 @@
     "uzdaviniai:tarpai": "nodemon ./uzdaviniai/tarpai.js",
     "uzdaviniai:vardas": "nodemon ./uzdaviniai/vardas.js",
     "uzdaviniai:array": "nodemon ./uzdaviniai/array.js",
+    "uzdaviniai:ternary": "nodemon ./uzdaviniai/ternary.js",
     "test": "echo \"Error: no test specified\" && exit 1"
     
   },
