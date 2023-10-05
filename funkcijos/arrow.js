@@ -15,5 +15,6 @@ const suma4 = (a,b)=> a+b;
 
 const kvadratu = a =>a**2;
 
-const str = 'pop'
-console.log(typeof str !== 'string' || str.length===0 ? false : str[0]);
+const str = 'p';
+//nested ternary nenaudoti
+console.log(typeof str !== 'string' ? 'Error, input must be string type' : str.length===0 ? 'Error, no input' : str[0]);
