@@ -5,6 +5,11 @@
   "main": "index.js",
   "scripts": {
     "destruct": "nodemon ./kintamieji/destruct.js",
+    "tekstas": "nodemon ./uzdaviniai/tekstas.js",
+    "rick-roll": "nodemon ./uzdaviniai/rick-roll.js",
+    "skaiciai": "nodemon ./uzdaviniai/skaiciai.js",
+    "class": "nodemon ./funkcijos/class.js",
+    "classExtends": "nodemon ./funkcijos/class-extends.js",
     "string": "nodemon ./kintamieji/string.js",
     "number": "nodemon ./kintamieji/number.js",
     "boolean": "nodemon ./kintamieji/boolean.js",
